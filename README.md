@@ -1,2 +1,2 @@
-# hello-world-project
-This is my python project. 
+# Hello World Project
+This is my python hello world project. 
